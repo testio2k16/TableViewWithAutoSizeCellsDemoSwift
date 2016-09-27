@@ -1,0 +1,2 @@
+# TableViewWithAutoSizeCellsDemoSwift
+TableViewWithAutoSizeCellsDemo-Swift
